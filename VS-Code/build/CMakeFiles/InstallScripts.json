@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/MyFolder/Programirovanie/VS-Code/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

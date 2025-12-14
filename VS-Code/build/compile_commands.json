@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/MyFolder/Programirovanie/VS-Code/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/my_app.dir/includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\my_app.dir\\src\\main.cpp.obj -c C:\\MyFolder\\Programirovanie\\VS-Code\\src\\main.cpp",
+  "file": "C:/MyFolder/Programirovanie/VS-Code/src/main.cpp",
+  "output": "CMakeFiles/my_app.dir/src/main.cpp.obj"
+}
+]

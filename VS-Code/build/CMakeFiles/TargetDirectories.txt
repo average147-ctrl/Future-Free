@@ -1,0 +1,3 @@
+C:/MyFolder/Programirovanie/VS-Code/build/CMakeFiles/my_app.dir
+C:/MyFolder/Programirovanie/VS-Code/build/CMakeFiles/edit_cache.dir
+C:/MyFolder/Programirovanie/VS-Code/build/CMakeFiles/rebuild_cache.dir

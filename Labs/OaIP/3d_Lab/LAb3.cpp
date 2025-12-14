@@ -1,7 +1,6 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-
 using namespace std;
 string Path = "C:\\tmp\\books.txt";
 string title, author, year;
